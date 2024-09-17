@@ -1,0 +1,14 @@
+D:\Workspace VScode\C#\Baitap1XML\bin\Debug\net8.0\Baitap1XML.exe
+D:\Workspace VScode\C#\Baitap1XML\bin\Debug\net8.0\Baitap1XML.deps.json
+D:\Workspace VScode\C#\Baitap1XML\bin\Debug\net8.0\Baitap1XML.runtimeconfig.json
+D:\Workspace VScode\C#\Baitap1XML\bin\Debug\net8.0\Baitap1XML.dll
+D:\Workspace VScode\C#\Baitap1XML\bin\Debug\net8.0\Baitap1XML.pdb
+D:\Workspace VScode\C#\Baitap1XML\obj\Debug\net8.0\Baitap1XML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace VScode\C#\Baitap1XML\obj\Debug\net8.0\Baitap1XML.AssemblyInfoInputs.cache
+D:\Workspace VScode\C#\Baitap1XML\obj\Debug\net8.0\Baitap1XML.AssemblyInfo.cs
+D:\Workspace VScode\C#\Baitap1XML\obj\Debug\net8.0\Baitap1XML.csproj.CoreCompileInputs.cache
+D:\Workspace VScode\C#\Baitap1XML\obj\Debug\net8.0\Baitap1XML.dll
+D:\Workspace VScode\C#\Baitap1XML\obj\Debug\net8.0\refint\Baitap1XML.dll
+D:\Workspace VScode\C#\Baitap1XML\obj\Debug\net8.0\Baitap1XML.pdb
+D:\Workspace VScode\C#\Baitap1XML\obj\Debug\net8.0\Baitap1XML.genruntimeconfig.cache
+D:\Workspace VScode\C#\Baitap1XML\obj\Debug\net8.0\ref\Baitap1XML.dll
